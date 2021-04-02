@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishabJSellDo
 - 👀 I’m interested in Android, Flutter, UI/UX Design, TDD, Clean Code
 - 🌱 I’m currently learning FLutter
-- 💞️ I’m looking to collaborate on Flutter
+- 💞️ I’m currently collaborating in Flutter
 - 📫 How to reach me https://portfolio-6aa9b1.webflow.io/
 
 <!---
